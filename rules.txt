@@ -1,0 +1,9 @@
+dice game
+
+om spelaren slår 1 förlorar den alla "lösa" poäng
+om splaren slår 6 dubbleras deras"lösa" poäng
+spelaren får slå tärningen 20 gånger
+spelaren kan lägga säkra poäng
+spelaren can spara sin highscore i en lista
+spelaren får välja namn som ska snynas på higscore listan
+tärningen rullar när man klickar på den
